@@ -1,0 +1,7 @@
+.venv/
+.ipynb_checkpoints/
+data/
+train.csv
+test.csv
+gender_submission.csv
+.DS_Store
